@@ -8,3 +8,5 @@
 - 📫 How to reach me: [Instagram](https://www.instagram.com/parth_08092002/), [Twitter](https://twitter.com/shete_parth)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I wear glasses.
+
+![](https://github-readme-stats.vercel.app/api?username=Parth-Shete&show_icons=true&theme=vision-friendly-dark)
