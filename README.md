@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on building up my programming fundamentals/background.
-- 🌱 I’m currently learning C, C++, JAVA.
+- 🌱 I’m currently learning "Python".
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with building my audience on Instagram.
 - 💬 Ask me about C language.
