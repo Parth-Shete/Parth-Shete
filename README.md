@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with building my audience on Instagram.
 - 💬 Ask me about C language.
-- 📫 How to reach me: [Instagram](https://www.instagram.com/parth_08092002/), [Twitter](https://twitter.com/shete_parth), [Facebook](https://www.facebook.com/parth.shete.712/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/parth-shete-8b2530201/), [Instagram](https://www.instagram.com/parth_08092002/), [Twitter](https://twitter.com/shete_parth), [Facebook](https://www.facebook.com/parth.shete.712/) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I wear glasses.
 
