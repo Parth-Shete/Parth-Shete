@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on building up my programming fundamentals/background.
-- 🌱 I’m currently learning "Web Development".
+- 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on Open Source projects.
 - 🤔 I’m looking for help with building my audience on LinkedIn.
 - 💬 Ask me about C language.
